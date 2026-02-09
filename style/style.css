@@ -15,7 +15,6 @@ html, body {
 main {
     height: 90vh;
     position: relative;
-    background-color: green;
 }
 
 section#telefone {
