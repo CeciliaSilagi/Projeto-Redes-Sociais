@@ -23,9 +23,9 @@ section#telefone {
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
-
-
+    
     height: 500px;
     width: 500px;
     background-color: blue;
+    background: url('../pacote-d013\(1\)/imagens/iframe-iphone.png') no-repeat;
 }
