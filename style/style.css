@@ -36,4 +36,6 @@ iframe#tela {
     position: relative;
     top: 50px;
     left: 50px;
+    width: 100px;
+    height: 100px;
 }
