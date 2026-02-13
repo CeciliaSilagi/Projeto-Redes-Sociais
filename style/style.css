@@ -40,7 +40,7 @@ iframe#tela {
     height: 471px;
 }
 
-section#redes-sociais {
+section#redes-sociais > a > img {
     width: 50px;
     margin: 10px;
 }
